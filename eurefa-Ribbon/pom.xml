@@ -13,6 +13,7 @@
         <module>client</module>
         <module>ribbon</module>
         <module>client2</module>
+        <module>hystrix</module>
     </modules>
 
 

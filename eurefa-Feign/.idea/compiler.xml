@@ -9,6 +9,7 @@
         <module name="client1" />
         <module name="client2" />
         <module name="feign" />
+        <module name="hystrix" />
         <module name="server" />
       </profile>
     </annotationProcessing>
@@ -17,6 +18,7 @@
       <module name="client2" target="1.8" />
       <module name="eurefa-Feign" target="1.5" />
       <module name="feign" target="1.8" />
+      <module name="hystrix" target="1.8" />
       <module name="server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
